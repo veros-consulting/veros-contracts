@@ -1,2 +1,1 @@
-# veros-contracts
-Veros smart contracts
+# veros-contracts-private
